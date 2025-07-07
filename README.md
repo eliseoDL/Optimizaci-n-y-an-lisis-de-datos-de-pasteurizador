@@ -1,1 +1,1 @@
-# "Análisis de eficiencia y optimización de un intercambiador de calor de carcasa y tubo utilizando Python, MySQL y Power BI
+# Simulación y optimización de un reactor tubular (PFR) utilizando DWSIM, Python y Power BI
